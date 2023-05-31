@@ -1,0 +1,1840 @@
+Ignition Hand #4467953091 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:41:15
+Seat 2: UTG+1 ($23.38 in chips)
+Seat 3: Dealer ($28.43 in chips)
+Seat 4: Small Blind ($24.50 in chips)
+Seat 5: Big Blind [ME] ($25 in chips)
+Seat 6: UTG ($34.48 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [7s Kd] 
+Dealer : Card dealt to a spot [9h 4d] 
+Small Blind : Card dealt to a spot [3c 2h] 
+Big Blind  [ME] : Card dealt to a spot [Kh Qc] 
+UTG : Card dealt to a spot [Th 7d] 
+UTG : Folds
+UTG+1 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind  [ME] : Does not show [Kh Qc] (High Card)
+Big Blind  [ME] : Hand result $0.35 
+*** SUMMARY ***
+Total Pot($0.35)
+Seat+2: UTG+1 Folded before the FLOP
+Seat+3: Dealer Folded before the FLOP
+Seat+4: Small Blind Folded before the FLOP
+Seat+5: Big Blind $0.35 [Does not show]  
+Seat+6: UTG Folded before the FLOP
+
+
+Ignition Hand #4467953344 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:41:45
+Seat 2: UTG ($23.38 in chips)
+Seat 3: UTG+1 ($28.43 in chips)
+Seat 4: Dealer ($24.40 in chips)
+Seat 5: Small Blind [ME] ($25.10 in chips)
+Seat 6: Big Blind ($34.48 in chips)
+Dealer : Set dealer [4] 
+Small Blind  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [3d Kd] 
+UTG+1 : Card dealt to a spot [Qh Ah] 
+Dealer : Card dealt to a spot [6s 9d] 
+Small Blind  [ME] : Card dealt to a spot [6c Ts] 
+Big Blind : Card dealt to a spot [2s 8c] 
+UTG : Folds
+UTG+1 : Raises $0.75 to $0.75
+Dealer : Folds
+Small Blind  [ME] : Folds
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet $0.50 
+UTG+1 : Does not show [Qh Ah] (High Card)
+UTG+1 : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+2: UTG Folded before the FLOP
+Seat+3: UTG+1 $0.60 [Does not show]  
+Seat+4: Dealer Folded before the FLOP
+Seat+5: Small Blind Folded before the FLOP
+Seat+6: Big Blind Folded before the FLOP
+
+
+Ignition Hand #4467953735 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:42:34
+Seat 2: Big Blind ($23.38 in chips)
+Seat 3: UTG ($28.78 in chips)
+Seat 4: UTG+1 ($24.40 in chips)
+Seat 5: Dealer [ME] ($25 in chips)
+Seat 6: Small Blind ($34.23 in chips)
+Dealer  [ME] : Set dealer [5] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [Jc 3s] 
+UTG : Card dealt to a spot [Js As] 
+UTG+1 : Card dealt to a spot [Ah 4h] 
+Dealer  [ME] : Card dealt to a spot [Qs 8h] 
+Small Blind : Card dealt to a spot [8c 6h] 
+UTG : Raises $0.75 to $0.75
+UTG+1 : Calls $0.75 
+Dealer  [ME] : Folds
+Small Blind : Folds
+Big Blind : Folds
+*** FLOP *** [4c 9c 9d]
+UTG : Bets $0.88 
+UTG+1 : Calls $0.88 
+*** TURN *** [4c 9c 9d] [7d]
+UTG : Checks
+UTG+1 : Bets $1.72 
+UTG : Folds
+UTG+1 : Return uncalled portion of bet $1.72 
+UTG+1 : Does not show [Ah 4h] (Two pair)
+UTG+1 : Hand result $3.43 
+*** SUMMARY ***
+Total Pot($3.61)
+Board [4c 9c 9d 7d ]
+Seat+2: Big Blind Folded before the FLOP
+Seat+3: UTG Folded on the TURN
+Seat+4: UTG+1 $3.43 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+Seat+6: Small Blind Folded before the FLOP
+
+
+Ignition Hand #4467954073 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:43:17
+Seat 2: Small Blind ($23.13 in chips)
+Seat 3: Big Blind ($27.15 in chips)
+Seat 4: UTG ($26.20 in chips)
+Seat 5: UTG+1 [ME] ($25 in chips)
+Seat 6: Dealer ($34.13 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [Ks 7d] 
+Big Blind : Card dealt to a spot [8c 6h] 
+UTG : Card dealt to a spot [7c Qd] 
+UTG+1  [ME] : Card dealt to a spot [5c Jd] 
+Dealer : Card dealt to a spot [9s Js] 
+UTG : Folds
+UTG+1  [ME] : Folds
+Dealer : Raises $0.63 to $0.63
+Small Blind : Folds
+Big Blind : Folds
+Dealer : Return uncalled portion of bet $0.38 
+Dealer : Does not show [9s Js] (High Card)
+Dealer : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+2: Small Blind Folded before the FLOP
+Seat+3: Big Blind Folded before the FLOP
+Seat+4: UTG Folded before the FLOP
+Seat+5: UTG+1 Folded before the FLOP
+Seat+6: Dealer $0.60 [Does not show]  
+
+
+Ignition Hand #4467954252 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:43:40
+Seat 2: Dealer ($23.03 in chips)
+Seat 3: Small Blind ($26.90 in chips)
+Seat 4: Big Blind ($26.20 in chips)
+Seat 5: UTG [ME] ($25 in chips)
+Seat 6: UTG+1 ($34.48 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [Ah 7d] 
+Small Blind : Card dealt to a spot [4c 3s] 
+Big Blind : Card dealt to a spot [Jh As] 
+UTG  [ME] : Card dealt to a spot [Ad 8d] 
+UTG+1 : Card dealt to a spot [Qd 4h] 
+UTG  [ME] : Raises $0.62 to $0.62
+UTG+1 : Folds
+Seat stand
+Table leave user
+Dealer : Folds
+Small Blind : Folds
+Table enter user
+Seat sit down
+Table deposit $25 
+Big Blind : Calls $0.37 
+*** FLOP *** [9h Ac 4d]
+Big Blind : Checks
+UTG  [ME] : Checks
+*** TURN *** [9h Ac 4d] [2d]
+Big Blind : Checks
+UTG  [ME] : Bets $0.96 
+Big Blind : Calls $0.96 
+*** RIVER *** [9h Ac 4d 2d] [3h]
+Big Blind : Checks
+UTG  [ME] : Bets $2.33 
+Big Blind : Calls $2.33 
+UTG  [ME] : Showdown [Ad Ac 9h 8d 4d] (One pair)
+Big Blind : Showdown [As Ac Jh 9h 4d] (One pair)
+Big Blind : Hand result $7.53 
+*** SUMMARY ***
+Total Pot($7.92)
+Board [9h Ac 4d 2d 3h]
+Seat+2: Dealer Folded before the FLOP
+Seat+3: Small Blind Folded before the FLOP
+Seat+4: Big Blind $7.53  with One pair [Jh As-As Ac Jh 9h 4d]  
+Seat+5: UTG lost with One pair [Ad 8d-Ad Ac 9h 8d 4d]  
+Seat+6: UTG+1 Folded before the FLOP
+
+
+Ignition Hand #4467954723 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:44:40
+Seat 2: UTG+1 ($23.03 in chips)
+Seat 3: Dealer ($26.80 in chips)
+Seat 4: Small Blind ($29.82 in chips)
+Seat 5: Big Blind [ME] ($21.09 in chips)
+Seat 6: UTG ($34.48 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [4d Kh] 
+Dealer : Card dealt to a spot [Th Kd] 
+Small Blind : Card dealt to a spot [2c 2d] 
+Big Blind  [ME] : Card dealt to a spot [3d 3h] 
+UTG : Card dealt to a spot [3s Qc] 
+UTG : Folds
+UTG+1 : Folds
+Dealer : Raises $0.62 to $0.62
+Small Blind : Calls $0.52 
+Big Blind  [ME] : Calls $0.37 
+*** FLOP *** [Ad 4h Td]
+Small Blind : Checks
+Big Blind  [ME] : Checks
+Dealer : Checks
+*** TURN *** [Ad 4h Td] [Qh]
+Small Blind : Checks
+Big Blind  [ME] : Checks
+Dealer : Checks
+*** RIVER *** [Ad 4h Td Qh] [7c]
+Small Blind : Checks
+Big Blind  [ME] : Checks
+Dealer : Checks
+Small Blind : Showdown [2d 2c Ad Qh Td] (One pair)
+Big Blind  [ME] : Showdown [3h 3d Ad Qh Td] (One pair)
+Dealer : Showdown [Th Td Ad Kd Qh] (One pair)
+Dealer : Hand result $1.77 
+Big Blind  [ME] : Table deposit $3.91 
+*** SUMMARY ***
+Total Pot($1.86)
+Board [Ad 4h Td Qh 7c]
+Seat+2: UTG+1 Folded before the FLOP
+Seat+3: Dealer $1.77  with One pair [Th Kd-Th Td Ad Kd Qh]  
+Seat+4: Small Blind lost with One pair [2c 2d-2d 2c Ad Qh Td]  
+Seat+5: Big Blind lost with One pair [3d 3h-3h 3d Ad Qh Td]  
+Seat+6: UTG Folded before the FLOP
+
+
+Ignition Hand #4467955310 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:45:54
+Seat 2: UTG ($23.03 in chips)
+Seat 3: UTG+1 ($27.95 in chips)
+Seat 4: Dealer ($29.20 in chips)
+Seat 5: Small Blind [ME] ($24.38 in chips)
+Seat 6: Big Blind ($34.48 in chips)
+Dealer : Set dealer [4] 
+Small Blind  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [5d Jh] 
+UTG+1 : Card dealt to a spot [Ad Ah] 
+Dealer : Card dealt to a spot [Qh 9c] 
+Small Blind  [ME] : Card dealt to a spot [8c Ts] 
+Big Blind : Card dealt to a spot [2s Kc] 
+UTG : Folds
+UTG+1 : Raises $0.75 to $0.75
+Dealer : Folds
+Small Blind  [ME] : Folds
+Small Blind  [ME] : Table deposit $0.72 
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet $0.50 
+UTG+1 : Does not show [Ad Ah] (High Card)
+UTG+1 : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+2: UTG Folded before the FLOP
+Seat+3: UTG+1 $0.60 [Does not show]  
+Seat+4: Dealer Folded before the FLOP
+Seat+5: Small Blind Folded before the FLOP
+Seat+6: Big Blind Folded before the FLOP
+
+
+Ignition Hand #4467955463 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:46:14
+Seat 1: Big Blind ($25 in chips)
+Seat 2: UTG ($23.03 in chips)
+Seat 3: UTG+1 ($28.30 in chips)
+Seat 4: UTG+2 ($29.20 in chips)
+Seat 5: Dealer [ME] ($25 in chips)
+Seat 6: Small Blind ($34.23 in chips)
+Dealer  [ME] : Set dealer [5] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [9d Ks] 
+UTG : Card dealt to a spot [4s 6d] 
+UTG+1 : Card dealt to a spot [7d 5s] 
+UTG+2 : Card dealt to a spot [7c Ac] 
+Dealer  [ME] : Card dealt to a spot [8s Qh] 
+Small Blind : Card dealt to a spot [3h 6c] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises $0.85 to $0.85
+Dealer  [ME] : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+2 : Return uncalled portion of bet $0.60 
+UTG+2 : Does not show [7c Ac] (High Card)
+UTG+2 : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+1: Big Blind Folded before the FLOP
+Seat+2: UTG Folded before the FLOP
+Seat+3: UTG+1 Folded before the FLOP
+Seat+4: UTG+2 $0.60 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+Seat+6: Small Blind Folded before the FLOP
+
+
+Ignition Hand #4467955802 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:46:54
+Seat 1: Small Blind ($24.75 in chips)
+Seat 2: Big Blind ($23.03 in chips)
+Seat 3: UTG ($28.30 in chips)
+Seat 4: UTG+1 ($29.55 in chips)
+Seat 5: UTG+2 [ME] ($25 in chips)
+Seat 6: Dealer ($34.13 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [Qc 2c] 
+Big Blind : Card dealt to a spot [Js Jd] 
+UTG : Card dealt to a spot [Ah 6d] 
+UTG+1 : Card dealt to a spot [Kc Qs] 
+UTG+2  [ME] : Card dealt to a spot [Kd Tc] 
+Dealer : Card dealt to a spot [2h 8c] 
+UTG : Folds (timeout)
+UTG : Seat sit out
+UTG+1 : Raises $0.75 to $0.75
+UTG : Seat re-join
+UTG+2  [ME] : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Raises $2.25 to $2.50
+UTG+1 : Calls $1.75 
+*** FLOP *** [6c 3c 9c]
+Big Blind : Checks
+UTG+1 : Checks
+*** TURN *** [6c 3c 9c] [4h]
+Big Blind : Bets $2.43 
+UTG+1 : Calls $2.43 
+*** RIVER *** [6c 3c 9c 4h] [Jh]
+Big Blind : Bets $4.74 
+UTG+1 : Folds
+Big Blind : Return uncalled portion of bet $4.74 
+Big Blind : Does not show [Js Jd] (Three of a kind)
+Big Blind : Hand result $9.47 
+*** SUMMARY ***
+Total Pot($9.96)
+Board [6c 3c 9c 4h Jh]
+Seat+1: Small Blind Folded before the FLOP
+Seat+2: Big Blind $9.47 [Does not show]  
+Seat+3: UTG Folded before the FLOP
+Seat+4: UTG+1 Folded on the RIVER
+Seat+5: UTG+2 Folded before the FLOP
+Seat+6: Dealer Folded before the FLOP
+
+
+Ignition Hand #4467956661 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:48:48
+Seat 1: Dealer ($24.65 in chips)
+Seat 2: Small Blind ($27.57 in chips)
+Seat 3: Big Blind ($28.30 in chips)
+Seat 4: UTG ($24.62 in chips)
+Seat 5: UTG+1 [ME] ($25 in chips)
+Seat 6: UTG+2 ($34.13 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [Kc Jh] 
+Small Blind : Card dealt to a spot [Qh 8s] 
+Big Blind : Card dealt to a spot [8h Ad] 
+UTG : Card dealt to a spot [7h Ts] 
+UTG+1  [ME] : Card dealt to a spot [2s 7c] 
+UTG+2 : Card dealt to a spot [Td 3h] 
+UTG : Folds
+UTG+1  [ME] : Folds
+UTG+2 : Folds
+Dealer : Raises $0.75 to $0.75
+Small Blind : Folds
+Big Blind : Calls $0.50 
+*** FLOP *** [3s 3c As]
+Big Blind : Checks
+Dealer : Bets $0.40 
+Big Blind : Calls $0.40 
+*** TURN *** [3s 3c As] [6h]
+Big Blind : Checks
+Dealer : Checks
+*** RIVER *** [3s 3c As 6h] [5d]
+Big Blind : Checks
+Dealer : Checks
+Big Blind : Showdown [As Ad 3s 3c 8h] (Two pair)
+Dealer : Mucks [Kc Jh] (One pair)
+Big Blind : Hand result $2.28 
+*** SUMMARY ***
+Total Pot($2.40)
+Board [3s 3c As 6h 5d]
+Seat+1: Dealer [Mucked] [Kc Jh]  
+Seat+2: Small Blind Folded before the FLOP
+Seat+3: Big Blind $2.28  with Two pair [8h Ad-As Ad 3s 3c 8h]  
+Seat+4: UTG Folded before the FLOP
+Seat+5: UTG+1 Folded before the FLOP
+Seat+6: UTG+2 Folded before the FLOP
+
+
+Ignition Hand #4467957350 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:50:13
+Seat 1: UTG+2 ($23.50 in chips)
+Seat 2: Dealer ($27.47 in chips)
+Seat 3: Small Blind ($29.43 in chips)
+Seat 4: Big Blind ($24.62 in chips)
+Seat 5: UTG [ME] ($25 in chips)
+Seat 6: UTG+1 ($34.13 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [Jd 3c] 
+Dealer : Card dealt to a spot [Jc Qh] 
+Small Blind : Card dealt to a spot [6h 4c] 
+Big Blind : Card dealt to a spot [7c 6d] 
+UTG  [ME] : Card dealt to a spot [7d Qd] 
+UTG+1 : Card dealt to a spot [9d Qs] 
+UTG  [ME] : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+Dealer : Raises $0.75 to $0.75
+Small Blind : Folds
+Big Blind : Calls $0.50 
+*** FLOP *** [2d 3d 3h]
+Big Blind : Checks
+Dealer : Bets $0.75 
+Big Blind : Folds
+Dealer : Return uncalled portion of bet $0.75 
+Dealer : Does not show [Jc Qh] (One pair)
+Dealer : Hand result $1.52 
+UTG+2 : Table deposit $1.50 
+*** SUMMARY ***
+Total Pot($1.60)
+Board [2d 3d 3h  ]
+Seat+1: UTG+2 Folded before the FLOP
+Seat+2: Dealer $1.52 [Does not show]  
+Seat+3: Small Blind Folded before the FLOP
+Seat+4: Big Blind Folded on the FLOP
+Seat+5: UTG Folded before the FLOP
+Seat+6: UTG+1 Folded before the FLOP
+
+
+Ignition Hand #4467957677 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:50:55
+Seat 1: UTG+1 ($25 in chips)
+Seat 2: UTG+2 ($28.24 in chips)
+Seat 3: Dealer ($29.33 in chips)
+Seat 4: Small Blind ($23.87 in chips)
+Seat 5: Big Blind [ME] ($25 in chips)
+Seat 6: UTG ($34.13 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Qs 8h] 
+UTG+2 : Card dealt to a spot [2h 3h] 
+Dealer : Card dealt to a spot [Ah 4c] 
+Small Blind : Card dealt to a spot [Ts Jd] 
+Big Blind  [ME] : Card dealt to a spot [6c 5s] 
+UTG : Card dealt to a spot [Qd 4d] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+Dealer : Raises $0.62 to $0.62
+Small Blind : Calls $0.52 
+Big Blind  [ME] : Folds
+*** FLOP *** [Kh 6h 3c]
+Big Blind  [ME] : Table deposit $0.25 
+Small Blind : Checks
+Dealer : Bets $0.46 
+Small Blind : Folds
+Dealer : Return uncalled portion of bet $0.46 
+Dealer : Does not show [Ah 4c] (High Card)
+Dealer : Hand result $1.42 
+*** SUMMARY ***
+Total Pot($1.49)
+Board [Kh 6h 3c  ]
+Seat+1: UTG+1 Folded before the FLOP
+Seat+2: UTG+2 Folded before the FLOP
+Seat+3: Dealer $1.42 [Does not show]  
+Seat+4: Small Blind Folded on the FLOP
+Seat+5: Big Blind Folded before the FLOP
+Seat+6: UTG Folded before the FLOP
+
+
+Ignition Hand #4467958057 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:51:39
+Seat 1: UTG ($25 in chips)
+Seat 2: UTG+1 ($28.24 in chips)
+Seat 3: UTG+2 ($30.13 in chips)
+Seat 4: Dealer ($23.25 in chips)
+Seat 5: Small Blind [ME] ($25 in chips)
+Seat 6: Big Blind ($34.13 in chips)
+Dealer : Set dealer [4] 
+Small Blind  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [3d Kd] 
+UTG+1 : Card dealt to a spot [8s 5h] 
+UTG+2 : Card dealt to a spot [Ad 5s] 
+Dealer : Card dealt to a spot [2h Qh] 
+Small Blind  [ME] : Card dealt to a spot [9d Ts] 
+Big Blind : Card dealt to a spot [Ks 3h] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+Dealer : Folds
+Small Blind  [ME] : Raises $0.65 to $0.75
+Big Blind : Calls $0.50 
+*** FLOP *** [5c 4c 6s]
+Small Blind  [ME] : Checks
+Big Blind : Checks
+*** TURN *** [5c 4c 6s] [4s]
+Small Blind  [ME] : Checks
+Big Blind : Bets $0.47 
+Small Blind  [ME] : Folds
+Big Blind : Return uncalled portion of bet $0.47 
+Big Blind : Does not show [Ks 3h] (One pair)
+Big Blind : Hand result $1.43 
+Small Blind  [ME] : Table deposit $0.75 
+*** SUMMARY ***
+Total Pot($1.50)
+Board [5c 4c 6s 4s ]
+Seat+1: UTG Folded before the FLOP
+Seat+2: UTG+1 Folded before the FLOP
+Seat+3: UTG+2 Folded before the FLOP
+Seat+4: Dealer Folded before the FLOP
+Seat+5: Small Blind Folded on the TURN
+Seat+6: Big Blind $1.43 [Does not show]  
+
+
+Ignition Hand #4467958841 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:53:11
+Seat 1: Big Blind ($25 in chips)
+Seat 2: UTG ($28.24 in chips)
+Seat 3: UTG+1 ($30.13 in chips)
+Seat 4: UTG+2 ($23.25 in chips)
+Seat 5: Dealer [ME] ($25 in chips)
+Seat 6: Small Blind ($34.81 in chips)
+Dealer  [ME] : Set dealer [5] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [Tc 6d] 
+UTG : Card dealt to a spot [8h 5s] 
+UTG+1 : Card dealt to a spot [4h 9c] 
+UTG+2 : Card dealt to a spot [9s 4s] 
+Dealer  [ME] : Card dealt to a spot [Jh 5h] 
+Small Blind : Card dealt to a spot [Ks As] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+Dealer  [ME] : Raises $0.62 to $0.62
+Small Blind : Raises $2.38 to $2.48
+Big Blind : Folds
+Dealer  [ME] : Folds
+Small Blind : Return uncalled portion of bet $1.86 
+Small Blind : Does not show [Ks As] (High Card)
+Small Blind : Hand result $1.49 
+Dealer  [ME] : Table deposit $0.62 
+*** SUMMARY ***
+Total Pot($1.49)
+Seat+1: Big Blind Folded before the FLOP
+Seat+2: UTG Folded before the FLOP
+Seat+3: UTG+1 Folded before the FLOP
+Seat+4: UTG+2 Folded before the FLOP
+Seat+5: Dealer Folded before the FLOP
+Seat+6: Small Blind $1.49 [Does not show]  
+
+
+Ignition Hand #4467959180 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:53:55
+Seat 1: Small Blind ($24.75 in chips)
+Seat 2: Big Blind ($28.24 in chips)
+Seat 3: UTG ($30.13 in chips)
+Seat 4: UTG+1 ($23.25 in chips)
+Seat 5: UTG+2 [ME] ($25 in chips)
+Seat 6: Dealer ($35.68 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [7s 3s] 
+Big Blind : Card dealt to a spot [Ad Td] 
+UTG : Card dealt to a spot [4s Qc] 
+UTG+1 : Card dealt to a spot [Qd 7h] 
+UTG+2  [ME] : Card dealt to a spot [Kd 9s] 
+Dealer : Card dealt to a spot [Kc 3d] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2  [ME] : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Does not show [Ad Td] (High Card)
+Big Blind : Hand result $0.35 
+*** SUMMARY ***
+Total Pot($0.35)
+Seat+1: Small Blind Folded before the FLOP
+Seat+2: Big Blind $0.35 [Does not show]  
+Seat+3: UTG Folded before the FLOP
+Seat+4: UTG+1 Folded before the FLOP
+Seat+5: UTG+2 Folded before the FLOP
+Seat+6: Dealer Folded before the FLOP
+
+
+Ignition Hand #4467959363 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:54:15
+Seat 1: Dealer ($24.65 in chips)
+Seat 2: Small Blind ($28.34 in chips)
+Seat 3: Big Blind ($30.13 in chips)
+Seat 4: UTG ($23.25 in chips)
+Seat 5: UTG+1 [ME] ($25 in chips)
+Seat 6: UTG+2 ($35.68 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [Qd Ks] 
+Small Blind : Card dealt to a spot [3c Qh] 
+Big Blind : Card dealt to a spot [2s 7s] 
+UTG : Card dealt to a spot [Kh 5s] 
+UTG+1  [ME] : Card dealt to a spot [4s 9h] 
+UTG+2 : Card dealt to a spot [7d 5d] 
+UTG : Folds
+UTG+1  [ME] : Folds
+UTG+2 : Raises $0.63 to $0.63
+Dealer : Raises $1.88 to $1.88
+Small Blind : Folds
+Big Blind : Folds
+UTG+2 : Folds
+Dealer : Return uncalled portion of bet $1.25 
+Dealer : Does not show [Qd Ks] (High Card)
+Dealer : Hand result $1.61 
+*** SUMMARY ***
+Total Pot($1.61)
+Seat+1: Dealer $1.61 [Does not show]  
+Seat+2: Small Blind Folded before the FLOP
+Seat+3: Big Blind Folded before the FLOP
+Seat+4: UTG Folded before the FLOP
+Seat+5: UTG+1 Folded before the FLOP
+Seat+6: UTG+2 Folded before the FLOP
+
+
+Ignition Hand #4467959861 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:55:17
+Seat 1: UTG+2 ($25.63 in chips)
+Seat 2: Dealer ($28.24 in chips)
+Seat 3: Small Blind ($29.88 in chips)
+Seat 4: Big Blind ($23.25 in chips)
+Seat 5: UTG [ME] ($25 in chips)
+Seat 6: UTG+1 ($35.05 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [8d Ks] 
+Dealer : Card dealt to a spot [Kc 6c] 
+Small Blind : Card dealt to a spot [Jd 9h] 
+Big Blind : Card dealt to a spot [6d 4d] 
+UTG  [ME] : Card dealt to a spot [9d 5c] 
+UTG+1 : Card dealt to a spot [7h Kh] 
+UTG  [ME] : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+Dealer : Raises $0.75 to $0.75
+Small Blind : Folds
+Big Blind : Calls $0.50 
+*** FLOP *** [6h Ts Qs]
+Big Blind : Checks
+Dealer : Bets $1 
+Big Blind : Folds
+Dealer : Return uncalled portion of bet $1 
+Dealer : Does not show [Kc 6c] (One pair)
+Dealer : Hand result $1.52 
+*** SUMMARY ***
+Total Pot($1.60)
+Board [6h Ts Qs  ]
+Seat+1: UTG+2 Folded before the FLOP
+Seat+2: Dealer $1.52 [Does not show]  
+Seat+3: Small Blind Folded before the FLOP
+Seat+4: Big Blind Folded on the FLOP
+Seat+5: UTG Folded before the FLOP
+Seat+6: UTG+1 Folded before the FLOP
+
+
+Ignition Hand #4467960290 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:56:09
+Seat 1: UTG+1 ($25.63 in chips)
+Seat 2: UTG+2 ($29.01 in chips)
+Seat 3: Dealer ($29.78 in chips)
+Seat 4: Small Blind ($22.50 in chips)
+Seat 5: Big Blind [ME] ($25 in chips)
+Seat 6: UTG ($35.05 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Th Qh] 
+UTG+2 : Card dealt to a spot [3s 8s] 
+Dealer : Card dealt to a spot [Jd 6c] 
+Small Blind : Card dealt to a spot [Kd Qs] 
+Big Blind  [ME] : Card dealt to a spot [Ks Qc] 
+UTG : Card dealt to a spot [5c 4c] 
+UTG : Folds
+UTG+1 : Raises $0.75 to $0.75
+UTG+2 : Folds
+Dealer : Folds
+Small Blind : Calls $0.65 
+Big Blind  [ME] : Calls $0.50 
+*** FLOP *** [9c 5d Jc]
+Small Blind : Checks
+Big Blind  [ME] : Checks
+UTG+1 : Bets $0.56 
+Small Blind : Calls $0.56 
+Big Blind  [ME] : Calls $0.56 
+*** TURN *** [9c 5d Jc] [2c]
+Small Blind : Checks
+Big Blind  [ME] : Checks
+UTG+1 : Checks
+*** RIVER *** [9c 5d Jc 2c] [Kh]
+Small Blind : Checks
+Big Blind  [ME] : Checks
+UTG+1 : Bets $2.56 
+Small Blind : Calls $2.56 
+Big Blind  [ME] : Calls $2.56 
+UTG+1 : Showdown [Kh Qh Jc Th 9c] (Straight)
+Small Blind : Mucks [Kd Qs] (One pair)
+Big Blind  [ME] : Mucks [Ks Qc] (One pair)
+UTG+1 : Hand result $11.03 
+Big Blind  [ME] : Table deposit $3.87 
+*** SUMMARY ***
+Total Pot($11.61)
+Board [9c 5d Jc 2c Kh]
+Seat+1: UTG+1 $11.03  with Straight [Th Qh-Kh Qh Jc Th 9c]  
+Seat+2: UTG+2 Folded before the FLOP
+Seat+3: Dealer Folded before the FLOP
+Seat+4: Small Blind [Mucked] [Kd Qs]  
+Seat+5: Big Blind [Mucked] [Ks Qc]  
+Seat+6: UTG Folded before the FLOP
+
+
+Ignition Hand #4467961262 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:58:05
+Seat 1: UTG ($32.79 in chips)
+Seat 2: UTG+1 ($29.01 in chips)
+Seat 3: UTG+2 ($29.78 in chips)
+Seat 4: Dealer ($18.63 in chips)
+Seat 5: Small Blind [ME] ($25 in chips)
+Seat 6: Big Blind ($35.05 in chips)
+Dealer : Set dealer [4] 
+Small Blind  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [6c Ad] 
+UTG+1 : Card dealt to a spot [Qh 2s] 
+UTG+2 : Card dealt to a spot [4h Js] 
+Dealer : Card dealt to a spot [9s 3d] 
+Small Blind  [ME] : Card dealt to a spot [6d 7h] 
+Big Blind : Card dealt to a spot [Qs 6h] 
+UTG : Folds
+UTG+1 : Folds (timeout)
+UTG+1 : Seat sit out
+UTG+2 : Folds
+Dealer : Folds
+Small Blind  [ME] : Folds
+Big Blind : Does not show [Qs 6h] (High Card)
+Big Blind : Hand result $0.35 
+Dealer : Table deposit $6.37 
+Small Blind  [ME] : Table deposit $0.10 
+*** SUMMARY ***
+Total Pot($0.35)
+Seat+1: UTG Folded before the FLOP
+Seat+2: UTG+1 Folded before the FLOP
+Seat+3: UTG+2 Folded before the FLOP
+Seat+4: Dealer Folded before the FLOP
+Seat+5: Small Blind Folded before the FLOP
+Seat+6: Big Blind $0.35 [Does not show]  
+
+
+Ignition Hand #4467961746 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:59:04
+Seat 1: Big Blind ($32.79 in chips)
+Seat 3: UTG ($29.78 in chips)
+Seat 4: UTG+1 ($25 in chips)
+Seat 5: Dealer [ME] ($25 in chips)
+Seat 6: Small Blind ($35.15 in chips)
+Dealer  [ME] : Set dealer [5] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [As 2h] 
+UTG : Card dealt to a spot [Qd 7h] 
+UTG+1 : Card dealt to a spot [4s 4c] 
+Dealer  [ME] : Card dealt to a spot [Td 3c] 
+Small Blind : Card dealt to a spot [Kd 8h] 
+Seat re-join
+UTG : Folds
+UTG+1 : Raises $0.85 to $0.85
+Dealer  [ME] : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet $0.60 
+UTG+1 : Does not show [4s 4c] (High Card)
+UTG+1 : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+1: Big Blind Folded before the FLOP
+Seat+3: UTG Folded before the FLOP
+Seat+4: UTG+1 $0.60 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+Seat+6: Small Blind Folded before the FLOP
+
+
+Ignition Hand #4467961986 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:59:33
+Seat 1: Small Blind ($32.54 in chips)
+Seat 2: Big Blind ($29.01 in chips)
+Seat 3: UTG ($29.78 in chips)
+Seat 4: UTG+1 ($25.35 in chips)
+Seat 5: UTG+2 [ME] ($25 in chips)
+Seat 6: Dealer ($35.05 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [7c Kh] 
+Big Blind : Card dealt to a spot [2c 6s] 
+UTG : Card dealt to a spot [Tc Qh] 
+UTG+1 : Card dealt to a spot [4d Kc] 
+UTG+2  [ME] : Card dealt to a spot [7d Js] 
+Dealer : Card dealt to a spot [9h 2h] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2  [ME] : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Does not show [2c 6s] (High Card)
+Big Blind : Hand result $0.35 
+*** SUMMARY ***
+Total Pot($0.35)
+Seat+1: Small Blind Folded before the FLOP
+Seat+2: Big Blind $0.35 [Does not show]  
+Seat+3: UTG Folded before the FLOP
+Seat+4: UTG+1 Folded before the FLOP
+Seat+5: UTG+2 Folded before the FLOP
+Seat+6: Dealer Folded before the FLOP
+
+
+Ignition Hand #4467962088 TBL#29508064 HOLDEM No Limit - 2023-05-16 18:59:46
+Seat 1: Dealer ($32.44 in chips)
+Seat 2: Small Blind ($29.11 in chips)
+Seat 3: Big Blind ($29.78 in chips)
+Seat 4: UTG ($25.35 in chips)
+Seat 5: UTG+1 [ME] ($25 in chips)
+Seat 6: UTG+2 ($35.05 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [7s 8s] 
+Small Blind : Card dealt to a spot [Jh Ad] 
+Big Blind : Card dealt to a spot [Qc 9h] 
+UTG : Card dealt to a spot [5s 8h] 
+UTG+1  [ME] : Card dealt to a spot [3h Qs] 
+UTG+2 : Card dealt to a spot [5d 8c] 
+UTG : Folds
+UTG+1  [ME] : Folds
+UTG+2 : Folds
+Dealer : Raises $0.75 to $0.75
+Small Blind : Folds
+Big Blind : Calls $0.50 
+*** FLOP *** [6h 3s 2s]
+Big Blind : Checks
+Dealer : Checks
+*** TURN *** [6h 3s 2s] [2h]
+Big Blind : Checks
+Dealer : Checks
+*** RIVER *** [6h 3s 2s 2h] [Td]
+Big Blind : Checks
+Dealer : Bets $1.14 
+Big Blind : Folds
+Dealer : Return uncalled portion of bet $1.14 
+Dealer : Does not show [7s 8s] (One pair)
+Dealer : Hand result $1.52 
+*** SUMMARY ***
+Total Pot($1.60)
+Board [6h 3s 2s 2h Td]
+Seat+1: Dealer $1.52 [Does not show]  
+Seat+2: Small Blind Folded before the FLOP
+Seat+3: Big Blind Folded on the RIVER
+Seat+4: UTG Folded before the FLOP
+Seat+5: UTG+1 Folded before the FLOP
+Seat+6: UTG+2 Folded before the FLOP
+
+
+Ignition Hand #4467962835 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:01:18
+Seat 1: UTG+2 ($33.21 in chips)
+Seat 2: Dealer ($29.01 in chips)
+Seat 3: Small Blind ($29.03 in chips)
+Seat 4: Big Blind ($25.35 in chips)
+Seat 5: UTG [ME] ($25 in chips)
+Seat 6: UTG+1 ($35.05 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [Kc 3c] 
+Dealer : Card dealt to a spot [8c 9h] 
+Small Blind : Card dealt to a spot [4d Ac] 
+Big Blind : Card dealt to a spot [2h 5d] 
+UTG  [ME] : Card dealt to a spot [Qs 6c] 
+UTG+1 : Card dealt to a spot [8d 7d] 
+UTG  [ME] : Folds
+UTG+1 : Raises $0.63 to $0.63
+UTG+2 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet $0.38 
+UTG+1 : Does not show [8d 7d] (High Card)
+UTG+1 : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+1: UTG+2 Folded before the FLOP
+Seat+2: Dealer Folded before the FLOP
+Seat+3: Small Blind Folded before the FLOP
+Seat+4: Big Blind Folded before the FLOP
+Seat+5: UTG Folded before the FLOP
+Seat+6: UTG+1 $0.60 [Does not show]  
+
+
+Ignition Hand #4467963055 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:01:44
+Seat 1: UTG+1 ($33.21 in chips)
+Seat 2: UTG+2 ($29.01 in chips)
+Seat 3: Dealer ($28.93 in chips)
+Seat 4: Small Blind ($25.10 in chips)
+Seat 5: Big Blind [ME] ($25 in chips)
+Seat 6: UTG ($35.40 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Th 8h] 
+UTG+2 : Card dealt to a spot [7d Ts] 
+Dealer : Card dealt to a spot [Kc 2h] 
+Small Blind : Card dealt to a spot [7s Ks] 
+Big Blind  [ME] : Card dealt to a spot [Jd Qc] 
+UTG : Card dealt to a spot [6s 9h] 
+UTG : Folds
+UTG+1 : Raises $0.75 to $0.75
+UTG+2 : Folds
+Dealer : Folds
+Small Blind : Calls $0.65 
+Big Blind  [ME] : Calls $0.50 
+*** FLOP *** [Jh 5c As]
+Small Blind : Checks
+Big Blind  [ME] : Checks
+UTG+1 : Bets $0.56 
+Small Blind : Folds
+Big Blind  [ME] : Calls $0.56 
+*** TURN *** [Jh 5c As] [9c]
+Big Blind  [ME] : Checks
+UTG+1 : Bets $2.57 
+Big Blind  [ME] : Calls $2.57 
+*** RIVER *** [Jh 5c As 9c] [Ac]
+Big Blind  [ME] : Checks
+UTG+1 : Bets $4.30 
+Big Blind  [ME] : Calls $4.30 
+UTG+1 : Showdown [As Ac Jh Th 9c] (One pair)
+Big Blind  [ME] : Showdown [As Ac Jh Jd Qc] (Two pair)
+Big Blind  [ME] : Hand result $16.26 
+*** SUMMARY ***
+Total Pot($17.11)
+Board [Jh 5c As 9c Ac]
+Seat+1: UTG+1 lost with One pair [Th 8h-As Ac Jh Th 9c]  
+Seat+2: UTG+2 Folded before the FLOP
+Seat+3: Dealer Folded before the FLOP
+Seat+4: Small Blind Folded on the FLOP
+Seat+5: Big Blind $16.26  with Two pair [Jd Qc-As Ac Jh Jd Qc]  
+Seat+6: UTG Folded before the FLOP
+
+
+Ignition Hand #4467964025 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:03:43
+Seat 1: UTG ($25.03 in chips)
+Seat 2: UTG+1 ($29.01 in chips)
+Seat 3: UTG+2 ($28.93 in chips)
+Seat 4: Dealer ($24.35 in chips)
+Seat 5: Small Blind [ME] ($33.08 in chips)
+Seat 6: Big Blind ($35.40 in chips)
+Dealer : Set dealer [4] 
+Small Blind  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [5s 4h] 
+UTG+1 : Card dealt to a spot [Ts 3c] 
+UTG+2 : Card dealt to a spot [7s 8s] 
+Dealer : Card dealt to a spot [9d Js] 
+Small Blind  [ME] : Card dealt to a spot [6c Kh] 
+Big Blind : Card dealt to a spot [Tc 6s] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises $0.75 to $0.75
+Dealer : Folds
+Small Blind  [ME] : Folds
+Big Blind : Folds
+UTG+2 : Return uncalled portion of bet $0.50 
+UTG+2 : Does not show [7s 8s] (High Card)
+UTG+2 : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+1: UTG Folded before the FLOP
+Seat+2: UTG+1 Folded before the FLOP
+Seat+3: UTG+2 $0.60 [Does not show]  
+Seat+4: Dealer Folded before the FLOP
+Seat+5: Small Blind Folded before the FLOP
+Seat+6: Big Blind Folded before the FLOP
+
+
+Ignition Hand #4467964303 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:04:18
+Seat 1: Big Blind ($25.03 in chips)
+Seat 2: UTG ($29.01 in chips)
+Seat 3: UTG+1 ($29.28 in chips)
+Seat 4: UTG+2 ($24.35 in chips)
+Seat 5: Dealer [ME] ($32.98 in chips)
+Seat 6: Small Blind ($35.15 in chips)
+Dealer  [ME] : Set dealer [5] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [Jh 2h] 
+UTG : Card dealt to a spot [8c 6s] 
+UTG+1 : Card dealt to a spot [5h 3d] 
+UTG+2 : Card dealt to a spot [Td Qc] 
+Dealer  [ME] : Card dealt to a spot [5d 4c] 
+Small Blind : Card dealt to a spot [Kh 5s] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises $0.75 to $0.75
+Dealer  [ME] : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+2 : Return uncalled portion of bet $0.50 
+UTG+2 : Does not show [Td Qc] (High Card)
+UTG+2 : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+1: Big Blind Folded before the FLOP
+Seat+2: UTG Folded before the FLOP
+Seat+3: UTG+1 Folded before the FLOP
+Seat+4: UTG+2 $0.60 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+Seat+6: Small Blind Folded before the FLOP
+
+
+Ignition Hand #4467964862 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:05:26
+Seat 1: Small Blind ($24.78 in chips)
+Seat 2: Big Blind ($29.01 in chips)
+Seat 3: UTG ($29.28 in chips)
+Seat 4: UTG+1 ($24.70 in chips)
+Seat 5: UTG+2 [ME] ($32.98 in chips)
+Seat 6: Dealer ($35.05 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [5d Ks] 
+Big Blind : Card dealt to a spot [Tc Kh] 
+UTG : Card dealt to a spot [3h 9d] 
+UTG+1 : Card dealt to a spot [Ac Qd] 
+UTG+2  [ME] : Card dealt to a spot [7c 6h] 
+Dealer : Card dealt to a spot [8d Jd] 
+UTG : Folds
+UTG+1 : Raises $1.25 to $1.25
+UTG+2  [ME] : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Calls $1 
+*** FLOP *** [4h 5h Jc]
+Big Blind : Checks
+UTG+1 : Checks
+*** TURN *** [4h 5h Jc] [6s]
+Big Blind : Checks
+UTG+1 : Checks
+*** RIVER *** [4h 5h Jc 6s] [2h]
+Big Blind : Checks
+UTG+1 : Checks
+Big Blind : Showdown [Kh Jc Tc 6s 5h] (High Card)
+UTG+1 : Showdown [Ac Qd Jc 6s 5h] (High Card)
+UTG+1 : Hand result $2.47 
+*** SUMMARY ***
+Total Pot($2.60)
+Board [4h 5h Jc 6s 2h]
+Seat+1: Small Blind Folded before the FLOP
+Seat+2: Big Blind lost with High Card [Tc Kh-Kh Jc Tc 6s 5h]  
+Seat+3: UTG Folded before the FLOP
+Seat+4: UTG+1 $2.47  with High Card [Ac Qd]  
+Seat+5: UTG+2 Folded before the FLOP
+Seat+6: Dealer Folded before the FLOP
+
+
+Ignition Hand #4467965491 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:06:47
+Seat 1: Dealer ($24.68 in chips)
+Seat 2: Small Blind ($27.76 in chips)
+Seat 3: Big Blind ($29.28 in chips)
+Seat 4: UTG ($25.92 in chips)
+Seat 5: UTG+1 [ME] ($32.98 in chips)
+Seat 6: UTG+2 ($35.05 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [5h 7c] 
+Small Blind : Card dealt to a spot [2h 6s] 
+Big Blind : Card dealt to a spot [2s Kc] 
+UTG : Card dealt to a spot [7d Ks] 
+UTG+1  [ME] : Card dealt to a spot [Td 4h] 
+UTG+2 : Card dealt to a spot [Ad 9d] 
+UTG : Folds
+UTG+1  [ME] : Folds
+UTG+2 : Raises $0.63 to $0.63
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+2 : Return uncalled portion of bet $0.38 
+UTG+2 : Does not show [Ad 9d] (High Card)
+UTG+2 : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+1: Dealer Folded before the FLOP
+Seat+2: Small Blind Folded before the FLOP
+Seat+3: Big Blind Folded before the FLOP
+Seat+4: UTG Folded before the FLOP
+Seat+5: UTG+1 Folded before the FLOP
+Seat+6: UTG+2 $0.60 [Does not show]  
+
+
+Ignition Hand #4467965665 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:07:08
+Seat 1: UTG+2 ($24.68 in chips)
+Seat 2: Dealer ($27.66 in chips)
+Seat 3: Small Blind ($29.03 in chips)
+Seat 4: Big Blind ($25.92 in chips)
+Seat 5: UTG [ME] ($32.98 in chips)
+Seat 6: UTG+1 ($35.40 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [Qc 6c] 
+Dealer : Card dealt to a spot [As 3s] 
+Small Blind : Card dealt to a spot [Ts Ad] 
+Big Blind : Card dealt to a spot [Th 8c] 
+UTG  [ME] : Card dealt to a spot [Jd 9s] 
+UTG+1 : Card dealt to a spot [4d 8d] 
+UTG  [ME] : Folds
+UTG+1 : Folds
+UTG+2 : Raises $0.75 to $0.75
+Dealer : Calls $0.75 
+Small Blind : Folds
+Big Blind : Calls $0.50 
+*** FLOP *** [Ah Tc 7c]
+Big Blind : Checks
+UTG+2 : Checks
+Dealer : Checks
+*** TURN *** [Ah Tc 7c] [Jc]
+Big Blind : Checks
+UTG+2 : Bets $0.78 
+Dealer : Calls $0.78 
+Big Blind : Calls $0.78 
+*** RIVER *** [Ah Tc 7c Jc] [3h]
+Big Blind : Checks
+UTG+2 : Bets $1.68 
+Dealer : Calls $1.68 
+Big Blind : Folds
+UTG+2 : Showdown [Qc Jc Tc 7c 6c] (Flush)
+Dealer : Mucks [As 3s] (Two pair)
+UTG+2 : Hand result $7.65 
+*** SUMMARY ***
+Total Pot($8.05)
+Board [Ah Tc 7c Jc 3h]
+Seat+1: UTG+2 $7.65  with Flush [Qc 6c-Qc Jc Tc 7c 6c]  
+Seat+2: Dealer [Mucked] [As 3s]  
+Seat+3: Small Blind Folded before the FLOP
+Seat+4: Big Blind Folded on the RIVER
+Seat+5: UTG Folded before the FLOP
+Seat+6: UTG+1 Folded before the FLOP
+
+
+Ignition Hand #4467966420 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:08:42
+Seat 1: UTG+1 ($29.12 in chips)
+Seat 2: UTG+2 ($24.45 in chips)
+Seat 3: Dealer ($28.93 in chips)
+Seat 4: Small Blind ($24.39 in chips)
+Seat 5: Big Blind [ME] ($32.98 in chips)
+Seat 6: UTG ($35.40 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Qh 2h] 
+UTG+2 : Card dealt to a spot [2s 9d] 
+Dealer : Card dealt to a spot [Ks 8d] 
+Small Blind : Card dealt to a spot [7h 5h] 
+Big Blind  [ME] : Card dealt to a spot [Ad 7s] 
+UTG : Card dealt to a spot [5s 7d] 
+UTG : Folds
+UTG : Seat stand
+UTG : Table leave user
+UTG+1 : Folds
+UTG+2 : Folds
+Dealer : Raises $0.62 to $0.62
+Small Blind : Calls $0.52 
+Big Blind  [ME] : Folds
+*** FLOP *** [2d 4h 2c]
+Small Blind : Checks
+Dealer : Bets $0.71 
+Small Blind : Raises $2.84 to $2.84
+Dealer : Folds
+Small Blind : Return uncalled portion of bet $2.13 
+Small Blind : Does not show [7h 5h] (One pair)
+Small Blind : Hand result $2.77 
+*** SUMMARY ***
+Total Pot($2.91)
+Board [2d 4h 2c  ]
+Seat+1: UTG+1 Folded before the FLOP
+Seat+2: UTG+2 Folded before the FLOP
+Seat+3: Dealer Folded on the FLOP
+Seat+4: Small Blind $2.77 [Does not show]  
+Seat+5: Big Blind Folded before the FLOP
+Seat+6: UTG Folded before the FLOP
+
+
+Ignition Hand #4467967017 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:09:54
+Seat 1: Big Blind ($29.12 in chips)
+Seat 2: UTG ($24.45 in chips)
+Seat 3: UTG+1 ($27.60 in chips)
+Seat 4: Dealer ($25.83 in chips)
+Seat 5: Small Blind [ME] ($32.73 in chips)
+Dealer : Set dealer [4] 
+Small Blind  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [7d Kd] 
+UTG : Card dealt to a spot [3s Jd] 
+UTG+1 : Card dealt to a spot [Ad Kh] 
+Dealer : Card dealt to a spot [6h 8s] 
+Small Blind  [ME] : Card dealt to a spot [3h 7c] 
+UTG : Folds
+UTG+1 : Raises $0.75 to $0.75
+Dealer : Folds
+Small Blind  [ME] : Folds
+Big Blind : Calls $0.50 
+*** FLOP *** [6s Ac 8c]
+Big Blind : Checks
+UTG+1 : Bets $1.01 
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet $1.01 
+UTG+1 : Does not show [Ad Kh] (One pair)
+UTG+1 : Hand result $1.52 
+*** SUMMARY ***
+Total Pot($1.60)
+Board [6s Ac 8c  ]
+Seat+1: Big Blind Folded on the FLOP
+Seat+2: UTG Folded before the FLOP
+Seat+3: UTG+1 $1.52 [Does not show]  
+Seat+4: Dealer Folded before the FLOP
+Seat+5: Small Blind Folded before the FLOP
+
+
+Ignition Hand #4467967605 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:11:04
+Seat 1: Small Blind ($28.37 in chips)
+Seat 2: Big Blind ($24.45 in chips)
+Seat 3: UTG ($28.37 in chips)
+Seat 4: UTG+1 ($25.83 in chips)
+Seat 5: Dealer [ME] ($32.63 in chips)
+Dealer  [ME] : Set dealer [5] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [Kc 6c] 
+Big Blind : Card dealt to a spot [4h 5s] 
+UTG : Card dealt to a spot [8h Tc] 
+UTG+1 : Card dealt to a spot [Td 4d] 
+Dealer  [ME] : Card dealt to a spot [Qh 8d] 
+UTG : Folds
+UTG+1 : Folds
+Dealer  [ME] : Folds
+Small Blind : Raises $0.65 to $0.75
+Big Blind : Folds
+Small Blind : Return uncalled portion of bet $0.50 
+Small Blind : Does not show [Kc 6c] (High Card)
+Small Blind : Hand result $0.50 
+*** SUMMARY ***
+Total Pot($0.50)
+Seat+1: Small Blind $0.50 [Does not show]  
+Seat+2: Big Blind Folded before the FLOP
+Seat+3: UTG Folded before the FLOP
+Seat+4: UTG+1 Folded before the FLOP
+Seat+5: Dealer Folded before the FLOP
+
+
+Ignition Hand #4467967821 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:11:31
+Seat 1: Dealer ($28.62 in chips)
+Seat 2: Small Blind ($24.20 in chips)
+Seat 3: Big Blind ($28.37 in chips)
+Seat 4: UTG ($25.83 in chips)
+Seat 5: UTG+1 [ME] ($32.63 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [Kd 2s] 
+Small Blind : Card dealt to a spot [2c 8s] 
+Big Blind : Card dealt to a spot [7s Kh] 
+UTG : Card dealt to a spot [6s Qd] 
+UTG+1  [ME] : Card dealt to a spot [Qc 9s] 
+UTG : Folds
+UTG+1  [ME] : Folds
+UTG : Seat stand
+UTG : Table leave user
+Dealer : Folds
+Small Blind : Folds (timeout)
+Small Blind : Seat sit out
+Small Blind : Seat re-join
+Big Blind : Does not show [7s Kh] (High Card)
+Big Blind : Hand result $0.35 
+*** SUMMARY ***
+Total Pot($0.35)
+Seat+1: Dealer Folded before the FLOP
+Seat+2: Small Blind Folded before the FLOP
+Seat+3: Big Blind $0.35 [Does not show]  
+Seat+4: UTG Folded before the FLOP
+Seat+5: UTG+1 Folded before the FLOP
+
+
+Ignition Hand #4467968241 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:12:20
+Seat 1: UTG ($28.62 in chips)
+Seat 2: Dealer ($24.10 in chips)
+Seat 3: Small Blind ($28.47 in chips)
+Seat 5: Big Blind [ME] ($32.63 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [Qc 8d] 
+Dealer : Card dealt to a spot [Qd 6d] 
+Small Blind : Card dealt to a spot [2d Qs] 
+Big Blind  [ME] : Card dealt to a spot [2s 9s] 
+UTG : Folds
+Table enter user
+Seat sit down
+Table deposit $25 
+Dealer : Folds (timeout)
+Dealer : Seat sit out
+Small Blind : Folds
+Big Blind  [ME] : Does not show [2s 9s] (High Card)
+Big Blind  [ME] : Hand result $0.35 
+*** SUMMARY ***
+Total Pot($0.35)
+Seat+1: UTG Folded before the FLOP
+Seat+2: Dealer Folded before the FLOP
+Seat+3: Small Blind Folded before the FLOP
+Seat+5: Big Blind $0.35 [Does not show]  
+
+
+Ignition Hand #4467968598 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:13:00
+Seat 1: Big Blind ($28.62 in chips)
+Seat 3: Dealer ($28.37 in chips)
+Seat 5: Small Blind [ME] ($32.73 in chips)
+Dealer : Set dealer [3] 
+Small Blind  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [3h Kh] 
+Dealer : Card dealt to a spot [2s Kc] 
+Small Blind  [ME] : Card dealt to a spot [Qs Ah] 
+Dealer : Folds
+Small Blind  [ME] : Raises $0.65 to $0.75
+Seat re-join
+Big Blind : Calls $0.50 
+*** FLOP *** [Ad 8c Jc]
+Seat stand
+Table leave user
+Small Blind  [ME] : Bets $0.47 
+Big Blind : Folds
+Small Blind  [ME] : Return uncalled portion of bet $0.47 
+Small Blind  [ME] : Does not show [Qs Ah] (One pair)
+Small Blind  [ME] : Hand result $1.43 
+*** SUMMARY ***
+Total Pot($1.50)
+Board [Ad 8c Jc  ]
+Seat+1: Big Blind Folded on the FLOP
+Seat+3: Dealer Folded before the FLOP
+Seat+5: Small Blind $1.43 [Does not show]  
+
+
+Ignition Hand #4467968867 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:13:32
+Seat 1: Small Blind ($27.87 in chips)
+Seat 2: Big Blind ($24.10 in chips)
+Seat 3: UTG ($28.37 in chips)
+Seat 5: Dealer [ME] ($33.41 in chips)
+Dealer  [ME] : Set dealer [5] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [9d 7h] 
+Big Blind : Card dealt to a spot [5h Jh] 
+UTG : Card dealt to a spot [Js Ad] 
+Dealer  [ME] : Card dealt to a spot [9s 8s] 
+UTG : Raises $0.75 to $0.75
+Dealer  [ME] : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG : Return uncalled portion of bet $0.50 
+UTG : Does not show [Js Ad] (High Card)
+UTG : Hand result $0.60 
+Table enter user
+Seat sit down
+Table deposit $25 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+1: Small Blind Folded before the FLOP
+Seat+2: Big Blind Folded before the FLOP
+Seat+3: UTG $0.60 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+
+
+Ignition Hand #4467969149 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:14:03
+Seat 1: Dealer ($27.77 in chips)
+Seat 2: Small Blind ($23.85 in chips)
+Seat 3: Big Blind ($28.72 in chips)
+Seat 5: UTG [ME] ($33.41 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [As 7d] 
+Small Blind : Card dealt to a spot [3d 6d] 
+Big Blind : Card dealt to a spot [4d 3s] 
+UTG  [ME] : Card dealt to a spot [Jc Qd] 
+UTG  [ME] : Raises $0.62 to $0.62
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG  [ME] : Return uncalled portion of bet $0.37 
+UTG  [ME] : Does not show [Jc Qd] (High Card)
+UTG  [ME] : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+1: Dealer Folded before the FLOP
+Seat+2: Small Blind Folded before the FLOP
+Seat+3: Big Blind Folded before the FLOP
+Seat+5: UTG $0.60 [Does not show]  
+
+
+Ignition Hand #4467969282 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:14:18
+Seat 1: UTG ($27.77 in chips)
+Seat 2: Dealer ($23.75 in chips)
+Seat 3: Small Blind ($28.47 in chips)
+Seat 5: Big Blind [ME] ($33.76 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [3c 9d] 
+Dealer : Card dealt to a spot [2h 6d] 
+Small Blind : Card dealt to a spot [Ad 8c] 
+Big Blind  [ME] : Card dealt to a spot [Kd Kc] 
+UTG : Folds
+Table enter user
+Seat sit down
+Table deposit $25.72 
+Dealer : Folds
+Small Blind : Raises $0.65 to $0.75
+Big Blind  [ME] : Raises $2.25 to $2.50
+Small Blind : Folds
+Big Blind  [ME] : Return uncalled portion of bet $1.75 
+Big Blind  [ME] : Does not show [Kd Kc] (High Card)
+Big Blind  [ME] : Hand result $1.50 
+*** SUMMARY ***
+Total Pot($1.50)
+Seat+1: UTG Folded before the FLOP
+Seat+2: Dealer Folded before the FLOP
+Seat+3: Small Blind Folded before the FLOP
+Seat+5: Big Blind $1.50 [Does not show]  
+
+
+Ignition Hand #4467969652 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:15:03
+Seat 1: UTG ($27.77 in chips)
+Seat 2: UTG+1 ($23.75 in chips)
+Seat 3: Dealer ($27.72 in chips)
+Seat 5: Small Blind [ME] ($34.51 in chips)
+Seat 6: Big Blind ($25 in chips)
+Dealer : Set dealer [3] 
+Small Blind  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [Ks 7c] 
+UTG+1 : Card dealt to a spot [9d 6d] 
+Dealer : Card dealt to a spot [7d Jc] 
+Small Blind  [ME] : Card dealt to a spot [6h 6s] 
+Big Blind : Card dealt to a spot [Ah 2s] 
+UTG : Folds
+UTG+1 : Folds
+Dealer : Folds
+Small Blind  [ME] : Raises $0.65 to $0.75
+Big Blind : Folds
+Small Blind  [ME] : Return uncalled portion of bet $0.50 
+Small Blind  [ME] : Does not show [6h 6s] (High Card)
+Small Blind  [ME] : Hand result $0.50 
+Big Blind : Table deposit $0.25 
+UTG : Seat sit out
+*** SUMMARY ***
+Total Pot($0.50)
+Seat+1: UTG Folded before the FLOP
+Seat+2: UTG+1 Folded before the FLOP
+Seat+3: Dealer Folded before the FLOP
+Seat+5: Small Blind $0.50 [Does not show]  
+Seat+6: Big Blind Folded before the FLOP
+
+
+Ignition Hand #4467969913 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:15:33
+Seat 2: Big Blind ($23.75 in chips)
+Seat 3: UTG ($27.72 in chips)
+Seat 5: Dealer [ME] ($34.76 in chips)
+Seat 6: Small Blind ($25 in chips)
+Dealer  [ME] : Set dealer [5] 
+Seat re-join
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [9c 7h] 
+UTG : Card dealt to a spot [Ad Tc] 
+Dealer  [ME] : Card dealt to a spot [Jc 6s] 
+Small Blind : Card dealt to a spot [Js 8h] 
+UTG : Raises $0.75 to $0.75
+Dealer  [ME] : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG : Return uncalled portion of bet $0.50 
+Small Blind : Table deposit $0.10 
+UTG : Does not show [Ad Tc] (High Card)
+UTG : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+2: Big Blind Folded before the FLOP
+Seat+3: UTG $0.60 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+Seat+6: Small Blind Folded before the FLOP
+
+
+Ignition Hand #4467970046 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:15:50
+Seat 2: Small Blind ($23.50 in chips)
+Seat 3: Big Blind ($28.07 in chips)
+Seat 5: UTG [ME] ($34.76 in chips)
+Seat 6: Dealer ($25 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [Qs 6s] 
+Big Blind : Card dealt to a spot [Ah 2h] 
+UTG  [ME] : Card dealt to a spot [8c 9h] 
+Dealer : Card dealt to a spot [8d 2s] 
+UTG  [ME] : Folds
+Dealer : Folds
+Seat stand
+Table leave user
+Small Blind : Calls $0.15 
+Big Blind : Raises $1 to $1.25
+Small Blind : Folds
+Big Blind : Return uncalled portion of bet $1 
+Big Blind : Does not show [Ah 2h] (High Card)
+Big Blind : Hand result $0.50 
+*** SUMMARY ***
+Total Pot($0.50)
+Seat+2: Small Blind Folded before the FLOP
+Seat+3: Big Blind $0.50 [Does not show]  
+Seat+5: UTG Folded before the FLOP
+Seat+6: Dealer Folded before the FLOP
+
+
+Ignition Hand #4467970440 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:16:38
+Seat 2: Dealer ($23.25 in chips)
+Seat 3: Small Blind ($28.32 in chips)
+Seat 4: Big Blind ($25.72 in chips)
+Seat 5: UTG [ME] ($34.76 in chips)
+Seat 6: UTG+1 ($25 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [7c 2s] 
+Small Blind : Card dealt to a spot [Kc 4s] 
+Big Blind : Card dealt to a spot [5s Ks] 
+UTG  [ME] : Card dealt to a spot [As 8h] 
+UTG+1 : Card dealt to a spot [Qs Ad] 
+UTG  [ME] : Folds
+UTG+1 : Raises $0.62 to $0.62
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Calls $0.37 
+*** FLOP *** [6h Jd Ac]
+Table enter user
+Seat sit down
+Table deposit $25 
+Big Blind : Checks
+UTG+1 : Bets $0.42 
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet $0.42 
+UTG+1 : Does not show [Qs Ad] (One pair)
+UTG+1 : Hand result $1.28 
+*** SUMMARY ***
+Total Pot($1.34)
+Board [6h Jd Ac  ]
+Seat+2: Dealer Folded before the FLOP
+Seat+3: Small Blind Folded before the FLOP
+Seat+4: Big Blind Folded on the FLOP
+Seat+5: UTG Folded before the FLOP
+Seat+6: UTG+1 $1.28 [Does not show]  
+
+
+Ignition Hand #4467970808 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:17:18
+Seat 2: UTG+1 ($23.25 in chips)
+Seat 3: Dealer ($28.22 in chips)
+Seat 4: Small Blind ($25.10 in chips)
+Seat 5: Big Blind [ME] ($34.76 in chips)
+Seat 6: UTG ($25.66 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Jc 7s] 
+Dealer : Card dealt to a spot [5d 9d] 
+Small Blind : Card dealt to a spot [4c Js] 
+Big Blind  [ME] : Card dealt to a spot [Kd 9s] 
+UTG : Card dealt to a spot [Ts As] 
+UTG : Raises $0.62 to $0.62
+UTG+1 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind  [ME] : Calls $0.37 
+*** FLOP *** [4h 2d 8h]
+Big Blind  [ME] : Checks
+UTG : Bets $0.42 
+Big Blind  [ME] : Folds
+UTG : Return uncalled portion of bet $0.42 
+UTG : Does not show [Ts As] (High Card)
+UTG : Hand result $1.28 
+*** SUMMARY ***
+Total Pot($1.34)
+Board [4h 2d 8h  ]
+Seat+2: UTG+1 Folded before the FLOP
+Seat+3: Dealer Folded before the FLOP
+Seat+4: Small Blind Folded before the FLOP
+Seat+5: Big Blind Folded on the FLOP
+Seat+6: UTG $1.28 [Does not show]  
+
+
+Ignition Hand #4467971035 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:17:44
+Seat 2: UTG ($23.25 in chips)
+Seat 3: UTG+1 ($28.22 in chips)
+Seat 4: Dealer ($25 in chips)
+Seat 5: Small Blind [ME] ($34.14 in chips)
+Seat 6: Big Blind ($26.32 in chips)
+Dealer : Set dealer [4] 
+Small Blind  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [6s 2c] 
+UTG+1 : Card dealt to a spot [Ts Jc] 
+Dealer : Card dealt to a spot [5d 4s] 
+Small Blind  [ME] : Card dealt to a spot [6d 5c] 
+Big Blind : Card dealt to a spot [5s Tc] 
+UTG : Folds
+UTG+1 : Raises $0.75 to $0.75
+Dealer : Folds
+Small Blind  [ME] : Folds
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet $0.50 
+UTG+1 : Does not show [Ts Jc] (High Card)
+UTG+1 : Hand result $0.60 
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+2: UTG Folded before the FLOP
+Seat+3: UTG+1 $0.60 [Does not show]  
+Seat+4: Dealer Folded before the FLOP
+Seat+5: Small Blind Folded before the FLOP
+Seat+6: Big Blind Folded before the FLOP
+
+
+Ignition Hand #4467971235 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:18:07
+Seat 1: Big Blind ($25 in chips)
+Seat 2: UTG ($23.25 in chips)
+Seat 3: UTG+1 ($28.57 in chips)
+Seat 4: UTG+2 ($25 in chips)
+Seat 5: Dealer [ME] ($34.04 in chips)
+Seat 6: Small Blind ($26.07 in chips)
+Dealer  [ME] : Set dealer [5] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [2h Qh] 
+UTG : Card dealt to a spot [8s 6c] 
+UTG+1 : Card dealt to a spot [6d 4d] 
+UTG+2 : Card dealt to a spot [Qd 4c] 
+Dealer  [ME] : Card dealt to a spot [3d 9s] 
+Small Blind : Card dealt to a spot [4s 9d] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+Dealer  [ME] : Folds
+Small Blind : Folds
+Big Blind : Does not show [2h Qh] (High Card)
+Big Blind : Hand result $0.35 
+*** SUMMARY ***
+Total Pot($0.35)
+Seat+1: Big Blind $0.35 [Does not show]  
+Seat+2: UTG Folded before the FLOP
+Seat+3: UTG+1 Folded before the FLOP
+Seat+4: UTG+2 Folded before the FLOP
+Seat+5: Dealer Folded before the FLOP
+Seat+6: Small Blind Folded before the FLOP
+
+
+Ignition Hand #4467971370 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:18:23
+Seat 1: Small Blind ($25.10 in chips)
+Seat 2: Big Blind ($23.25 in chips)
+Seat 3: UTG ($28.57 in chips)
+Seat 4: UTG+1 ($25 in chips)
+Seat 5: UTG+2 [ME] ($34.04 in chips)
+Seat 6: Dealer ($25.97 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [Kc Th] 
+Big Blind : Card dealt to a spot [Kh 4c] 
+UTG : Card dealt to a spot [9s 2d] 
+UTG+1 : Card dealt to a spot [5h Qs] 
+UTG+2  [ME] : Card dealt to a spot [3s 6s] 
+Dealer : Card dealt to a spot [Td 6c] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2  [ME] : Folds
+Dealer : Folds
+Small Blind : Raises $0.65 to $0.75
+Big Blind : Folds
+Small Blind : Return uncalled portion of bet $0.50 
+Small Blind : Does not show [Kc Th] (High Card)
+Small Blind : Hand result $0.50 
+*** SUMMARY ***
+Total Pot($0.50)
+Seat+1: Small Blind $0.50 [Does not show]  
+Seat+2: Big Blind Folded before the FLOP
+Seat+3: UTG Folded before the FLOP
+Seat+4: UTG+1 Folded before the FLOP
+Seat+5: UTG+2 Folded before the FLOP
+Seat+6: Dealer Folded before the FLOP
+
+
+Ignition Hand #4467971682 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:18:58
+Seat 1: Dealer ($25.35 in chips)
+Seat 2: Small Blind ($23 in chips)
+Seat 3: Big Blind ($28.57 in chips)
+Seat 4: UTG ($25 in chips)
+Seat 5: UTG+1 [ME] ($34.04 in chips)
+Seat 6: UTG+2 ($25.97 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [5c 7s] 
+Small Blind : Card dealt to a spot [Kc Jd] 
+Big Blind : Card dealt to a spot [6h 8c] 
+UTG : Card dealt to a spot [Tc 6c] 
+UTG+1  [ME] : Card dealt to a spot [2h 4h] 
+UTG+2 : Card dealt to a spot [7d 2c] 
+UTG : Folds
+UTG+1  [ME] : Folds
+UTG+2 : Folds
+Dealer : Folds
+Small Blind : Calls $0.15 
+Big Blind : Checks
+*** FLOP *** [9s 3c Ah]
+Small Blind : Checks
+Big Blind : Bets $0.25 
+Small Blind : Calls $0.25 
+*** TURN *** [9s 3c Ah] [4d]
+Small Blind : Checks
+Big Blind : Checks
+*** RIVER *** [9s 3c Ah 4d] [6d]
+Small Blind : Bets $0.75 
+Big Blind : Folds
+Small Blind : Return uncalled portion of bet $0.75 
+Small Blind : Does not show [Kc Jd] (High Card)
+Small Blind : Hand result $0.95 
+*** SUMMARY ***
+Total Pot($1)
+Board [9s 3c Ah 4d 6d]
+Seat+1: Dealer Folded before the FLOP
+Seat+2: Small Blind $0.95 [Does not show]  
+Seat+3: Big Blind Folded on the RIVER
+Seat+4: UTG Folded before the FLOP
+Seat+5: UTG+1 Folded before the FLOP
+Seat+6: UTG+2 Folded before the FLOP
+
+
+Ignition Hand #4467972465 TBL#29508064 HOLDEM No Limit - 2023-05-16 19:20:30
+Seat 1: UTG+2 ($25.35 in chips)
+Seat 2: Dealer ($23.45 in chips)
+Seat 3: Small Blind ($28.07 in chips)
+Seat 4: Big Blind ($25 in chips)
+Seat 5: UTG [ME] ($34.04 in chips)
+Seat 6: UTG+1 ($25.97 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [9c Jh] 
+Dealer : Card dealt to a spot [Ts Ad] 
+Small Blind : Card dealt to a spot [8h 7d] 
+Big Blind : Card dealt to a spot [4d 5c] 
+UTG  [ME] : Card dealt to a spot [Ah 5d] 
+UTG+1 : Card dealt to a spot [Ks Ac] 
+UTG  [ME] : Folds
+UTG  [ME] : Seat stand
+UTG  [ME] : Table leave user
+UTG+1 : Raises $0.62 to $0.62
+UTG+2 : Folds
+Dealer : Calls $0.62 
+Table enter user
+Seat sit down
+Table deposit $15 
+Small Blind : Folds
+Big Blind : Folds
+*** FLOP *** [Kd 5h 7h]
+Big Blind : Table deposit $0.25 
+UTG+1 : Checks
+Dealer : Checks
+*** TURN *** [Kd 5h 7h] [Qs]
+UTG+1 : Bets $2.28 
+Dealer : Folds
+UTG+1 : Return uncalled portion of bet $2.28 
+UTG+1 : Does not show [Ks Ac] (One pair)
+UTG+1 : Hand result $1.52 
+*** SUMMARY ***
+Total Pot($1.59)
+Board [Kd 5h 7h Qs ]
+Seat+1: UTG+2 Folded before the FLOP
+Seat+2: Dealer Folded on the TURN
+Seat+3: Small Blind Folded before the FLOP
+Seat+4: Big Blind Folded before the FLOP
+Seat+5: UTG Folded before the FLOP
+Seat+6: UTG+1 $1.52 [Does not show]  
+

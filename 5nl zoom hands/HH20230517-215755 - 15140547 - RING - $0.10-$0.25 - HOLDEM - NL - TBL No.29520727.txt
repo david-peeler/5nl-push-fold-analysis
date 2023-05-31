@@ -1,0 +1,78 @@
+Ignition Hand #4468553043 TBL#29520727 HOLDEM No Limit - 2023-05-17 21:58:06
+Seat 3: Big Blind [ME] ($7.50 in chips)
+Seat 5: Dealer ($25 in chips)
+Dealer : Set dealer [5] 
+Dealer : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind  [ME] : Card dealt to a spot [Qd Qc] 
+Dealer : Card dealt to a spot [Jc 6c] 
+Dealer : Raises $0.65 to $0.75
+Big Blind  [ME] : Raises $2.25 to $2.50
+Dealer : Folds
+Big Blind  [ME] : Return uncalled portion of bet $1.75 
+Big Blind  [ME] : Does not show [Qd Qc] (High Card)
+Big Blind  [ME] : Hand result $1.50 
+Big Blind  [ME] : Table deposit $16.75 
+Dealer : Table deposit $0.75 
+*** SUMMARY ***
+Total Pot($1.50)
+Seat+3: Big Blind $1.50 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+
+
+Ignition Hand #4468553167 TBL#29520727 HOLDEM No Limit - 2023-05-17 21:58:20
+Seat 3: Dealer [ME] ($25 in chips)
+Seat 5: Big Blind ($25 in chips)
+Dealer  [ME] : Set dealer [3] 
+Dealer  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer  [ME] : Card dealt to a spot [6d 7h] 
+Big Blind : Card dealt to a spot [Qh Qs] 
+Dealer  [ME] : Raises $0.65 to $0.75
+Table enter user
+Seat sit down
+Table deposit $25 
+Big Blind : Raises $2.75 to $3
+Dealer  [ME] : Folds
+Big Blind : Return uncalled portion of bet $2.25 
+Big Blind : Does not show [Qh Qs] (High Card)
+Big Blind : Hand result $1.50 
+Seat stand
+Table leave user
+Dealer  [ME] : Table deposit $0.75 
+*** SUMMARY ***
+Total Pot($1.50)
+Seat+3: Dealer Folded before the FLOP
+Seat+5: Big Blind $1.50 [Does not show]  
+
+
+Ignition Hand #4468553302 TBL#29520727 HOLDEM No Limit - 2023-05-17 21:58:35
+Seat 3: Big Blind [ME] ($25 in chips)
+Seat 5: Dealer ($25.75 in chips)
+Dealer : Set dealer [5] 
+Dealer : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind  [ME] : Card dealt to a spot [5s 9d] 
+Dealer : Card dealt to a spot [2h As] 
+Dealer : Folds
+Big Blind  [ME] : Does not show [5s 9d] (High Card)
+Big Blind  [ME] : Hand result $0.35 
+Dealer : Seat sit out
+Dealer : Seat stand
+Dealer : Table leave user
+Big Blind  [ME] : Seat stand
+Big Blind  [ME] : Table leave user
+Table enter user
+Seat sit down
+Table deposit $25 
+Table enter user
+Seat sit down
+Table deposit $14 
+*** SUMMARY ***
+Total Pot($0.35)
+Seat+3: Big Blind $0.35 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+

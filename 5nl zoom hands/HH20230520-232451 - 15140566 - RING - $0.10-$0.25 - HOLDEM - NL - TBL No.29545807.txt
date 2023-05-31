@@ -1,0 +1,93 @@
+Ignition Hand #4470086030 TBL#29545807 HOLDEM No Limit - 2023-05-20 23:25:13
+Seat 1: Dealer [ME] ($25 in chips)
+Seat 5: Big Blind ($25 in chips)
+Dealer  [ME] : Set dealer [1] 
+Dealer  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer  [ME] : Card dealt to a spot [Js 6s] 
+Big Blind : Card dealt to a spot [6d 5s] 
+Dealer  [ME] : Raises $0.65 to $0.75
+Big Blind : Folds
+Dealer  [ME] : Return uncalled portion of bet $0.50 
+Dealer  [ME] : Does not show [Js 6s] (High Card)
+Dealer  [ME] : Hand result $0.50 
+*** SUMMARY ***
+Total Pot($0.50)
+Seat+1: Dealer $0.50 [Does not show]  
+Seat+5: Big Blind Folded before the FLOP
+
+
+Ignition Hand #4470086101 TBL#29545807 HOLDEM No Limit - 2023-05-20 23:25:23
+Seat 1: Big Blind [ME] ($25.25 in chips)
+Seat 5: Dealer ($24.75 in chips)
+Dealer : Set dealer [5] 
+Dealer : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind  [ME] : Card dealt to a spot [Ad 9d] 
+Dealer : Card dealt to a spot [8h 6d] 
+Dealer : Folds
+Big Blind  [ME] : Does not show [Ad 9d] (High Card)
+Big Blind  [ME] : Hand result $0.35 
+*** SUMMARY ***
+Total Pot($0.35)
+Seat+1: Big Blind $0.35 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+
+
+Ignition Hand #4470086159 TBL#29545807 HOLDEM No Limit - 2023-05-20 23:25:31
+Seat 1: Dealer [ME] ($25.35 in chips)
+Seat 5: Big Blind ($24.65 in chips)
+Dealer  [ME] : Set dealer [1] 
+Dealer  [ME] : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Dealer  [ME] : Card dealt to a spot [Qc 5d] 
+Big Blind : Card dealt to a spot [4d Td] 
+Dealer  [ME] : Raises $0.65 to $0.75
+Big Blind : Folds
+Dealer  [ME] : Return uncalled portion of bet $0.50 
+Dealer  [ME] : Does not show [Qc 5d] (High Card)
+Dealer  [ME] : Hand result $0.50 
+*** SUMMARY ***
+Total Pot($0.50)
+Seat+1: Dealer $0.50 [Does not show]  
+Seat+5: Big Blind Folded before the FLOP
+
+
+Ignition Hand #4470086322 TBL#29545807 HOLDEM No Limit - 2023-05-20 23:25:54
+Seat 1: Big Blind [ME] ($25.60 in chips)
+Seat 5: Dealer ($24.40 in chips)
+Dealer : Set dealer [5] 
+Dealer : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+Big Blind  [ME] : Card dealt to a spot [Kd Ac] 
+Dealer : Card dealt to a spot [7h 3s] 
+Dealer : Folds
+Big Blind  [ME] : Does not show [Kd Ac] (High Card)
+Big Blind  [ME] : Hand result $0.35 
+Big Blind  [ME] : Seat stand
+Big Blind  [ME] : Table leave user
+Dealer : Seat stand
+Dealer : Table leave user
+Table enter user
+Seat sit down
+Table deposit $25 
+Table enter user
+Seat sit down
+Table deposit $25 
+Seat stand
+Table leave user
+Table enter user
+Seat sit down
+Table deposit $25 
+Table enter user
+Seat sit down
+Table deposit $25 
+*** SUMMARY ***
+Total Pot($0.35)
+Seat+1: Big Blind $0.35 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+
